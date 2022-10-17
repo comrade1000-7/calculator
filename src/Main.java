@@ -3,7 +3,7 @@ public class Main {
         Calculator calc = Calculator.instance.get();
 
         int a = calc.plus.apply(2, 3);
-        int b = calc.minus.apply(2, 1);
+        int b = calc.minus.apply(1, 1);
         int c = calc.devide.apply(a, b);
         int d = calc.abs.apply(-9);
 
