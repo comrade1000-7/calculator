@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCalculator" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-10-23T03:41:19" hostname="MacBook-Air-Macbook.local" time="0.052">
+  <properties/>
+  <testcase name="testAbs()" classname="TestCalculator" time="0.008"/>
+  <testcase name="[1] 10, 7, 3" classname="TestCalculator" time="0.011"/>
+  <testcase name="[2] 20, 15, 5" classname="TestCalculator" time="0.001"/>
+  <testcase name="testPlus()" classname="TestCalculator" time="0.0"/>
+  <testcase name="[1] 1, true" classname="TestCalculator" time="0.001"/>
+  <testcase name="[2] -1, false" classname="TestCalculator" time="0.0"/>
+  <testcase name="[1] 3, 2, 6" classname="TestCalculator" time="0.0"/>
+  <testcase name="[2] 4, 6, 24" classname="TestCalculator" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
