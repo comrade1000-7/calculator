@@ -39,7 +39,7 @@ public class TestCalculator {
         @CsvFileSource(resources = "data2.csv")
         public void testIsPositive(int a, boolean expected) {
                 boolean actual = calculator.isPositive.test(a);
-                
+
                 assertThat(expected, equalTo(actual));
         }
 
